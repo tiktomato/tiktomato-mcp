@@ -1,3 +1,5 @@
+[English](README.md) | [中文](README_zh.md) | [日本語](README_ja.md) | [Español](README_es.md)
+
 # TikTomato MCP Server
 
 MCP Server for [TikTomato](https://tiktomato.com) — generate AI images and videos using 20+ top models directly from Claude, Cursor, and other MCP-compatible clients.
