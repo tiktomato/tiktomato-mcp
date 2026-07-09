@@ -4,7 +4,7 @@ import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";
 import { z } from "zod";
 
-const API_BASE = "https://api.tiktomato.com";
+const API_BASE = "https://tiktomato.com";
 const SITE_BASE = "https://tiktomato.com";
 
 // 从环境变量读取 token
